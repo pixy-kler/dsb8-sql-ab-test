@@ -114,12 +114,15 @@ effect of the newsfeed.
 ---
 
 ## 📁 Structure
-├── ex00/ # SELECT + filtering
-├── ex01/ # SUBQUERY
-├── ex02/ # JOIN + datamart (test / control)
-├── ex03/ # Aggregations + correlation
-└── ex04/ # A/B test
 
+```
+.
+├── ex00/    # SELECT + filtering
+├── ex01/    # SUBQUERY
+├── ex02/    # JOIN + datamart (test / control)
+├── ex03/    # Aggregations + correlation
+└── ex04/    # A/B test
+```
 ---
 
 ## 🛠 Tech Stack
